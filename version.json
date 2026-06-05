@@ -1,8 +1,5 @@
 {
-  "version": "1.3.2",
-  "url": "https://github.com/meissour/school-entry-updates/releases/download/v1.3.2/School.Entry.Tracker.Setup.1.3.2.exe",
-  "changelog": "إصلاح مشكلة البطء في قراءة الكتب، تحسين سرعة معالجة الذكاء الاصطناعي، وتعديل طباعة أرقام الهواتف وتاريخ الطلب باللون الأسود الغامق بوضوح ممتاز."
+  "version": "1.3.3",
+  "url": "https://github.com/meissour/school-entry-updates/releases/download/v1.3.3/School.Entry.Tracker.Setup.1.3.3.exe",
+  "changelog": ".إصلاح مشكلة التداخل أسفل الصفحات تماماً بحد أقصى 30 عنواناً، وحذف شارة النسخ القديمة لتبدو واجهة المستخدم نظيفة واحترافية"
 }
-
-
-
