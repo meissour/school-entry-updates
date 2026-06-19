@@ -1,8 +1,10 @@
 {
-  "version": "1.3.5",
-  "downloadUrl": "https://github.com/meissour/school-entry-updates/releases/download/v1.3.5/School.Entry.Tracker.Setup.1.3.5.exe",
+  "version": "1.3.6",
+  "downloadUrl": "https://github.com/meissour/school-entry-updates/releases/download/v1.3.6/School-Entry-Tracker-Setup-1.3.6.exe",
+  "publishedAt": "2026-06-19T08:40:00Z",
+  "mandatory": false,
   "releaseNotes": {
-    "ar": "• إصلاحات عامة وتحسين نظام الإرسال الجماعي عبر واتساب.\n• ميزة المسح التلقائي بالذكاء الاصطناعي أصبحت أكثر استقراراً وسرعة.",
-    "fr": "• Améliorations générales et correction de l'envoi groupé WhatsApp.\n• Le scanner IA est désormais plus rapide et stable."
+    "ar": "تحديث جديد (الإصدار v1.3.6):\n- تحسين كبير جداً في آلية القراءة الذكيّة والتعرف على المستويات المدرسية (Morocco School Levels) من خلال الرؤية والتحليل البصري الاستنتاجي لكل صفحة حتى وإن كُتبت بالرموز المختصرة (مثل CP, CE1, CE2, 6AEP).\n- إلزامية إضافة المستوى المدرسي بجانب كل مقرر يتم قراءته لضمان الدقة.\n- تحسين استقرار محرك الذكاء الاصطناعي وإضافة نماذج احتياطية ذكية (Gemini 2.5-flash) لتجاوز أخطاء الضغط وزيادة استجابة الخادم البديل.",
+    "fr": "Nouvelle mise à jour (Version v1.3.6):\n- Amélioration majeure de l'OCR intelligent pour détecter et déduire automatiquement le niveau scolaire de chaque page.\n- Association obligatoire et stricte de chaque manuel d'école avec son niveau marocain correspondant.\n- Intégration de modèles de secours résilients (Gemini 2.5-flash) pour une disponibilité maximale."
   }
 }
